@@ -244,6 +244,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 Para consultas sobre el proyecto:
 - GitHub Issues: [Crear issue](https://github.com/Mackdiel12/worldbot-mysql-ollama/issues)
 - GitHub: [@Mackdiel12](https://github.com/Mackdiel12)
+- Linkedin: https://www.linkedin.com/in/mackdiel-manuel-dom%C3%ADnguez-francisco-258a2470/
 
 ---
 
